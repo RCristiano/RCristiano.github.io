@@ -18,14 +18,12 @@ timezone: America/Sao_Paulo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: RCristiano # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Rodrigo's blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A blog with focus on a dev life.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://RCristiano.github.io"
